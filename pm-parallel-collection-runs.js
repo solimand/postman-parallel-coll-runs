@@ -36,12 +36,6 @@ for(var i=0; i<process.argv[3]; i++){
 }
 async.parallel(runArray,
 
-
-// async.parallel([
-//     parallelCollectionRun,
-//     parallelCollectionRun
-// ],
-
 /**
  * The
  *
