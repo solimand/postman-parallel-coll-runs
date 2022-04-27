@@ -7,4 +7,4 @@ The scrip executes parallel "collection runs" using the ```async parallel``` mod
 
 ## Usage 
 - ```npm install <req_packages>```
-- `node .\pm-parallel-collection-runs.js collection\_URL `
+- `node .\pm-parallel-collection-runs.js collection\_URL parallel_req_num`
